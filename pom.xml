@@ -17,6 +17,7 @@
     <modules>
         <module>eureka-server-ha1</module>
         <module>eureka-server-ha2</module>
+        <module>eureka-server-ha3</module>
         <module>eureka-client-member-1</module>
         <module>eureka-client-member-2</module>
         <module>eureka-client-order-1</module>
