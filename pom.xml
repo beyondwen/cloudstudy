@@ -21,6 +21,7 @@
         <module>eureka-client-member-1</module>
         <module>eureka-client-member-2</module>
         <module>eureka-client-order-1</module>
+        <module>zookeeper-member-1</module>
     </modules>
 
     <name>cloudstudy</name>
