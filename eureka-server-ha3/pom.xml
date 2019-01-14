@@ -11,7 +11,7 @@
     <groupId>com.wenhao.cloudstudy</groupId>
     <artifactId>eureka-server-ha3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>eureka-server-ha-3</name>
+    <name>eureka-server-ha3</name>
     <description>Demo project for Spring Boot</description>
 
     <dependencies>
