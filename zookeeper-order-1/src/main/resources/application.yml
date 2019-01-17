@@ -1,8 +1,8 @@
 server:
-  port: 8202
+  port: 8301
 spring:
   application:
-    name: zk_member
+    name: zk_order
   cloud:
     zookeeper:
       connect-string: 127.0.0.1:2181
