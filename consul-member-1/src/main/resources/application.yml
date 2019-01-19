@@ -10,5 +10,5 @@ spring:
       host: localhost
       port: 8500
       discovery:
-        service-name: consul-member1
+        hostname: 127.0.0.1
 

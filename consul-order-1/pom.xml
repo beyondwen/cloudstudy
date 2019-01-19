@@ -9,11 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.wenhao.cloudstudy</groupId>
-    <artifactId>consul-member-2</artifactId>
+    <artifactId>consul-order-1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>consul-member-2</name>
+    <name>consul-order-1</name>
     <description>Demo project for Spring Boot</description>
-
 
     <properties>
         <java.version>1.8</java.version>
@@ -71,4 +70,5 @@
             <url>https://repo.spring.io/milestone</url>
         </repository>
     </repositories>
+
 </project>
